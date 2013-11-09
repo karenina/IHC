@@ -59,28 +59,31 @@
          </aside>
       <!-- content -->
       <section id="content">
-         <div id="banner">
-            <h2>    <span>Paw <span>:D</span></span></h2>
-         </div>
-         <div class="inside">
-            <h2>al <span>go</span></h2>
-            <ul class="list">
-               <li><span><img src="images/icon1.png"></span>
-                  <h4>titulo 1</h4>
-                  <p>colocar algo.</p>
-               </li>
-               <li><span><img src="images/icon2.png"></span>
-                  <h4>titulo 2e</h4>
-                  <p>.</p>
-               </li>
-               <li class="last"><span><img src="images/icon3.png"></span>
-                  <h4>titulo 3</h4>
-                  <p>contenido .</p>
-               </li>
-            </ul>
-            
-            <p class="p0">bas.</p>
-         </div>
+          <h2>Objetivo</h2>
+          <p>El objetivo de esta actividad es lograr una correcta instalación de Dreamweaver para poder usarlo en actividades posteriores.</p>
+          <h2>Instalación</h2>
+          <p>Antes de instalar Dreamweaver es necesario tener en cuenta los requisitos que necesita el sistema para su correcto funcionamiento:
+         <br> Windows<br>
+           Procesador Intel® Pentium® 4 o AMD Athlon® de 64 bits.<br>
+          <br> Microsoft® Windows® 7 con Service Pack 1, Windows 8 o Windows 8.1
+        1 GB de RAM.<br> 
+         <br> 1 GB de espacio disponible en el disco duro para la instalación; se requiere espacio libre adicional durante la instalación (no se puede instalar en dispositivos de almacenamiento flash extraíbles).<br> 
+        <br> Resolución de 1280 x 1024 con tarjeta de vídeo de 16 bits.<br> 
+         <br> Java™ Runtime Environment 1.6 (incluido).<br> 
+         <br> Se requiere disponer de una conexión a Internet y registrarse para la activación del software y la validación de los abonos obligatorias, y para el acceso a los servicios online*.
+
+</p>
+<p>Mac OS
+·         Procesador Intel multinúcleo.
+·         Mac OS X v10.7, v10.8, o v10.9
+·         1 GB de RAM.
+·         1 GB de espacio disponible en el disco duro para la instalación; se requiere espacio libre adicional durante la instalación (no se puede instalar en un volumen que utilice un sistema de distinción entre mayúsculas y minúsculas en archivos, ni en dispositivos de almacenamiento flash extraíbles).
+·         Resolución de 1280 x 1024 con tarjeta de vídeo de 16 bits.
+·         Java Runtime Environment 1.6.
+·         Software QuickTime 7.6.6 preciso para la reproducción de contenido multimedia HTML5.
+·         Se requiere disponer de una conexión a Internet y registrarse para la activación del software y la validación de los abonos obligatorias, y para el acceso a los servicios online*.
+</p>
+
       </section>
    </div>
 </div>
