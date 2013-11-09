@@ -169,7 +169,25 @@ fieldset {
 		.categories li a:hover {
 			color:#ff7b01;
 		}
-
+		.categories li ul {
+			display: none;
+			position: absolute;
+			min-width: 140px;
+		}
+		.categories li:hover > ul {
+			display: block;
+			
+		}
+		ul.categories ul {
+			font-weight:bold;
+		   font-size:.857em;
+		   font-family:Arial;
+		  padding-bottom:8px;
+		   margin-bottom:6px;
+    		position: relative;
+    		top: 0;
+    		left: 15px;
+		}
 .news {
 	margin-top:-25px;
 }
