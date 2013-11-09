@@ -62,9 +62,9 @@
           <h2>Objetivo</h2>
           <p>El objetivo de esta actividad es lograr una correcta instalación de Dreamweaver para poder usarlo en actividades posteriores.</p>
           <h2>Instalación</h2>
-          <p>Antes de instalar Dreamweaver es necesario tener en cuenta los requisitos que necesita el sistema para su correcto funcionamiento:
-         <br> Windows<br>
-           Procesador Intel® Pentium® 4 o AMD Athlon® de 64 bits.<br>
+          <p>Antes de instalar Dreamweaver es necesario tener en cuenta los requisitos que necesita el sistema para su correcto funcionamiento:<br>
+         <br><strong>Windows</strong> <br>
+          <br> Procesador Intel® Pentium® 4 o AMD Athlon® de 64 bits.<br>
           <br> Microsoft® Windows® 7 con Service Pack 1, Windows 8 o Windows 8.1
         1 GB de RAM.<br> 
          <br> 1 GB de espacio disponible en el disco duro para la instalación; se requiere espacio libre adicional durante la instalación (no se puede instalar en dispositivos de almacenamiento flash extraíbles).<br> 
@@ -73,17 +73,63 @@
          <br> Se requiere disponer de una conexión a Internet y registrarse para la activación del software y la validación de los abonos obligatorias, y para el acceso a los servicios online*.
 
 </p>
-<p>Mac OS
-·         Procesador Intel multinúcleo.
-·         Mac OS X v10.7, v10.8, o v10.9
-·         1 GB de RAM.
-·         1 GB de espacio disponible en el disco duro para la instalación; se requiere espacio libre adicional durante la instalación (no se puede instalar en un volumen que utilice un sistema de distinción entre mayúsculas y minúsculas en archivos, ni en dispositivos de almacenamiento flash extraíbles).
-·         Resolución de 1280 x 1024 con tarjeta de vídeo de 16 bits.
-·         Java Runtime Environment 1.6.
-·         Software QuickTime 7.6.6 preciso para la reproducción de contenido multimedia HTML5.
-·         Se requiere disponer de una conexión a Internet y registrarse para la activación del software y la validación de los abonos obligatorias, y para el acceso a los servicios online*.
+<p><strong>Mac OS</strong><br>
+         <br>Procesador Intel multinúcleo.<br>
+        <br> Mac OS X v10.7, v10.8, o v10.9<br>
+        <br> 1 GB de RAM.<br>
+        <br> 1 GB de espacio disponible en el disco duro para la instalación; se requiere espacio libre adicional durante la instalación (no se puede instalar en un volumen que utilice un sistema de distinción entre mayúsculas y minúsculas en archivos, ni en dispositivos de almacenamiento flash extraíbles).<br>
+        <br> Resolución de 1280 x 1024 con tarjeta de vídeo de 16 bits.<br>
+        <br> Java Runtime Environment 1.6.<br>
+        <br> Software QuickTime 7.6.6 preciso para la reproducción de contenido multimedia HTML5.<br>
+        <br> Se requiere disponer de una conexión a Internet y registrarse para la activación del software y la validación de los abonos obligatorias, y para el acceso a los servicios online*.
 </p>
+<p><strong>Pasos de instalación:</strong><br>
+1 )  Primeramente se deben de tener los archivos de Dreamweaver en la PC y darle doble click al archivo ejecutable.<br>
+<br><span><img src="images/1.png"></span><br>
+<br>2 ) Comienzan a extraerse los archivos necesarios la instalación, por lo que esperamos a que termine y le damos siguiente.<br>
+<br><span><img src="images/2.png"></span><br>
 
+<br>3)  Se inicializa el asistente para la ejecución y se le da siguiente.<br>
+<br><span><img src="images/3.png"></span><br>
+
+<br>4) Aparece el contrato de licencia, se aceptan los términos y se da siguiente.<br>
+<br><span><img src="images/4.png"></span><br>
+
+<br>5) Se asigna la ruta de instalación.<br>
+<br><span><img src="images/5.png"></span><br>
+
+<br>6) Se seleccionan los paquetes de acuerdo a las necesidades del usuario.<br>
+<br><span><img src="images/6.png"></span><br>
+
+<br>7) El asistente de instalación está listo, simplemente se da siguiente y se espera a que termine.<br>
+<br><span><img src="images/7.png"></span><br>
+
+<br>8) Dreamweaver está listo para usarse.<br><br>
+<br><span><img src="images/8.png"></span><br>
+
+<br><strong><i>Conociendo el entorno de trabajo.</i></strong><br>
+<br>Al iniciar Dreamweaver aparece una pantalla como la siguiente:<br><br>
+<br><span><img src="images/9.png"></span><br>
+
+<br><strong><i>Las barras</i></strong><br>
+
+<br>1) Barra de título.<br>
+<br><span><img src="images/10.png"></span><br>
+
+<br>2)Barra de Menus.<br>
+<br><span><img src="images/11.png"></span><br>
+
+<br>3) Barra de herramientas estándar.<br>
+<br><span><img src="images/12.png"></span><br>
+
+<br>4) Barra de herramientas del documento.<br>
+<br><span><img src="images/13.png"></span><br>
+
+
+
+
+
+</p>
       </section>
    </div>
 </div>
